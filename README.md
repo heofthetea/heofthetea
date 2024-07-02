@@ -3,7 +3,7 @@
 - 💤 likely sleeping
 - 😠 I hate CSS
 - 💡Force pushing to main makes things a lot easier
-- 🥇 [Excel Sort for the win](https://github.com/heofthetea/excel-sort)
+- 🥇 [Excel Sort](https://github.com/heofthetea/excel-sort) for the win
 
 ## My skills
 The term 'skills' is of course very relative. In this case, refers to tools I'd say I'm comfortable enough with working with.
