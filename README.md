@@ -11,10 +11,11 @@
 <span>
     <img src="img/python.png" height="42px">
     <img src="img/java.png" height="42px">
+    <img src="img/C_Logo.png" height="42px">
+    <br>
     <img src="img/gnu-bash.png"height="42px">
     <img src="img/git.png" height="42px">
     <img src="img/docker.png" height="42px">
-    <img src="img/C_Logo.png" height="42px">
 </span>
 <br>
 
