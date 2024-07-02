@@ -9,19 +9,21 @@
 ### Stuff I've worked with
 
 <span>
-    <img href="img/python.png">
-    <img href="img/java.png">
-    <img href="img/gnu-bash.png">
-    <img href="img/git.png">
-    <img href="img/docker.png">
-    <img href="img/C_Logo.png">
+    <img src="img/python.png" height="42px">
+    <img src="img/java.png" height="42px">
+    <img src="img/gnu-bash.png"height="42px">
+    <img src="img/git.png" height="42px">
+    <img src="img/docker.png" height="42px">
+    <img src="img/C_Logo.png" height="42px">
 </span>
-All relative to the fact that I'm only in second semester of University.
+<br>
+
+_All relative of course to the fact that I'm only in second semester of University._
 
 
 ### Stuff I'm interested in
 <span>
-    <img href="img/linux-logo.png">
+    <img src="img/linux-logo.png" height="42px">
 </span>
 
 <!--
