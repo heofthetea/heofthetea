@@ -6,18 +6,26 @@
 - 💡Force pushing to main makes things a lot easier
 - 🥇 [Excel Sort](https://github.com/heofthetea/excel-sort) for the win
 
+### Stuff I've worked with
+
+<span>
+    <img href="img/python.png">
+    <img href="img/java.png">
+    <img href="img/gnu-bash.png">
+    <img href="img/git.png">
+    <img href="img/docker.png">
+    <img href="img/C_Logo.png">
+</span>
+All relative to the fact that I'm only in second semester of University.
+
+
+### Stuff I'm interested in
+<span>
+    <img href="img/linux-logo.png">
+</span>
+
 <!--
 **heofthetea/heofthetea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## My skills
-The term 'skills' is of course very relative. In this case, refers to tools I'd say I'm comfortable enough with working with.
-(TODO: make images out of these)
-- python
-- java
-- linux terminal
-- c
-- vue js
-- docker compose
-- gitlab ci
 
 
 
