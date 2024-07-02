@@ -1,7 +1,7 @@
 ## Hi there 👋
-
 - 💤 likely sleeping
 - 😠 I hate CSS
+- 🔭 I'm currently working on: [University](https://github.com/heofthetea/dhbw-semester-1)
 - 💡Force pushing to main makes things a lot easier
 - 🥇 [Excel Sort](https://github.com/heofthetea/excel-sort) for the win
 
@@ -15,7 +15,6 @@ The term 'skills' is of course very relative. In this case, refers to tools I'd 
 - vue js
 - docker compose
 - gitlab ci
-- 
 
 
 <!--
