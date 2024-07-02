@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+- 💤 likely sleeping
+- 😠 I hate CSS
+- 💡Force pushing to main makes things a lot easier
+- 🥇 [Excel Sort for the win](https://github.com/heofthetea/excel-sort)
+
+## My skills
+The term 'skills' is of course very relative. In this case, refers to tools I'd say I'm comfortable enough with working with.
+(TODO: make images out of these)
+- python
+- java
+- linux terminal
+- c
+- vue js
+- docker compose
+- gitlab ci
+- 
+
+
 <!--
 **heofthetea/heofthetea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
