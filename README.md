@@ -23,7 +23,7 @@ _All relative of course to the fact that I'm only in second semester of Universi
 
 ### Stuff I'm interested in
 <span>
-    <img src="img/linux-logo.png" height="42px">
+    <img src="img/linux-logo2.png" height="42px">
 </span>
 
 <!--
