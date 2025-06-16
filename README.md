@@ -4,7 +4,6 @@
 - 😠 I hate CSS
 - 🔭 I'm currently working on: [University](https://github.com/heofthetea/dhbw-semester-1)
 - 💡Force pushing to main makes things a lot easier
-- 🥇 [Excel Sort](https://github.com/heofthetea/excel-sort) for the win
 
 ### Stuff I've worked with
 
@@ -19,7 +18,6 @@
 </span>
 <br>
 
-_All relative of course to the fact that I'm only in second semester of University._
 
 
 ### Stuff I'm interested in
